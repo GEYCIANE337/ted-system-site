@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Desenvolvimento contínuo",
+      descricao: "Investir no aprendizado e na evolução profissional para garantir crescimento e qualidade nos serviços."
     }
   ],
   publicoAlvo:
@@ -48,6 +52,13 @@ export const empresa = {
       foto: "/images/sheldon.jpg",
       alt: "Foto de Sheldon Cooper",
       descricao: "Especialista em desenvolvimento Full Stack, chegou para ampliar a capacidade de entrega da empresa."
+    },
+    {
+      nome: "Dulce Maris",
+      cargo: "Desenvolvedor Front-end",
+      foto: "/images/dulce.jpg",
+      alt: "Foto de Dulce Maria",
+      descricao: "Profissional criativa e dedicada ao desenvolvimento de interfaces modernas e intuitivas, focada em proporcionar experiências digitais de qualidade e soluções inovadoras."
     },
     {
       nome: "Amy Farrah Fowler",
